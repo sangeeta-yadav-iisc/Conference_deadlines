@@ -4,8 +4,11 @@ This page is all about conferences related to Machine Learning and Computational
 
 ## Computational Fluid Dynamics
 ICAR 2021: Advances in Rheology Conference, Cancun (Apr 05-06, 2021)
+
 ICCMEA 2021: Continuum Mechanics and Engineering Applications Conference, Cancun (Apr 05-06, 2021)
+
 ICAMMSSA 2021: Applied Mechanics, Mechanical Systems and Structural Analysis Conference, Athens (Apr 08-09, 2021)
+
 ICFMA 2021: Fluid Mechanics and Applications Conference, Rome (Apr 08-09, 2021)
 ICFMFA 2021: Fluid Mechanics and Flow Analysis Conference, Rome (Apr 08-09, 2021)
 ICFSTE 2021: Flow Science, Technology and Engineering Conference, Rome (Apr 08-09, 2021)
