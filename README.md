@@ -1,6 +1,8 @@
 # Conferences
 This page is all about conferences related to Machine Learning and Computational Fluid Dynamics
 
+https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=phy_computationalmathematics
+
 
 ## Computational Fluid Dynamics
 ICAR 2021: Advances in Rheology Conference, Cancun (Apr 05-06, 2021)
